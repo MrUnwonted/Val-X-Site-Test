@@ -82,8 +82,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+https://github.com/MrUnwonted/Val-X-Site-Test
+cd iphone
 ```
 
 **Installation**
@@ -91,13 +91,13 @@ cd iphone-doc
 Install the project dependencies using npm:
 
 ```bash
-npm install
+bun install
 ```
 
 **Running the Project**
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
